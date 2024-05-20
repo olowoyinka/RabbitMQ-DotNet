@@ -1,0 +1,17 @@
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\bin\Debug\net7.0\TicketProcessing.exe
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\bin\Debug\net7.0\TicketProcessing.deps.json
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\bin\Debug\net7.0\TicketProcessing.runtimeconfig.json
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\bin\Debug\net7.0\TicketProcessing.dll
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\bin\Debug\net7.0\TicketProcessing.pdb
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.AssemblyInfo.cs
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.csproj.CopyComplete
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.dll
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\refint\TicketProcessing.dll
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.pdb
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\TicketProcessing.genruntimeconfig.cache
+C:\Users\yinkaos\source\repos\AirlineProject\TicketProcessing\obj\Debug\net7.0\ref\TicketProcessing.dll

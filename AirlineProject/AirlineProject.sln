@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaAirlineAPI", "FormulaAirlineAPI\FormulaAirlineAPI.csproj", "{72D8F950-42DB-4842-B235-4C49F132ED4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketProcessing", "TicketProcessing\TicketProcessing.csproj", "{10F516D6-D6CB-4F58-A0D1-076FCEE91567}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitSender", "RabbitSender\RabbitSender.csproj", "{E8F96CAE-8C46-49B2-9413-69B4A51EF5FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitReceiver1", "RabbitReceiver1\RabbitReceiver1.csproj", "{FBADFCB0-EBA3-42DD-B99D-1576C627788E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResilencePolly", "WebResilencePolly\WebResilencePolly.csproj", "{36A94EEA-0A5E-4F8C-BD97-ED44F1750C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopMassTransit", "eShopMassTransit\eShopMassTransit.csproj", "{7429C3E0-AA6A-4695-863A-47FADCC4473D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D8F950-42DB-4842-B235-4C49F132ED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D8F950-42DB-4842-B235-4C49F132ED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D8F950-42DB-4842-B235-4C49F132ED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D8F950-42DB-4842-B235-4C49F132ED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F516D6-D6CB-4F58-A0D1-076FCEE91567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F516D6-D6CB-4F58-A0D1-076FCEE91567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F516D6-D6CB-4F58-A0D1-076FCEE91567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F516D6-D6CB-4F58-A0D1-076FCEE91567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F96CAE-8C46-49B2-9413-69B4A51EF5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F96CAE-8C46-49B2-9413-69B4A51EF5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F96CAE-8C46-49B2-9413-69B4A51EF5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F96CAE-8C46-49B2-9413-69B4A51EF5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBADFCB0-EBA3-42DD-B99D-1576C627788E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBADFCB0-EBA3-42DD-B99D-1576C627788E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBADFCB0-EBA3-42DD-B99D-1576C627788E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBADFCB0-EBA3-42DD-B99D-1576C627788E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A94EEA-0A5E-4F8C-BD97-ED44F1750C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A94EEA-0A5E-4F8C-BD97-ED44F1750C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A94EEA-0A5E-4F8C-BD97-ED44F1750C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A94EEA-0A5E-4F8C-BD97-ED44F1750C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7429C3E0-AA6A-4695-863A-47FADCC4473D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7429C3E0-AA6A-4695-863A-47FADCC4473D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7429C3E0-AA6A-4695-863A-47FADCC4473D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7429C3E0-AA6A-4695-863A-47FADCC4473D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7453764B-BBBF-4FB0-AA01-B9B713E6A49F}
+	EndGlobalSection
+EndGlobal
